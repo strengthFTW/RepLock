@@ -1,4 +1,4 @@
-# RepLock — AI Push-Up Counter 🏋️
+# RepLock — AI Push-Up Counter And Form Tracker
 
 A real-time, webcam-based push-up counter using **MediaPipe Pose**, **OpenCV**, and **NumPy**.
 
