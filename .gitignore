@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.env
+
+# MediaPipe Models (auto-downloaded)
+models/
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local Logs
+*.log
